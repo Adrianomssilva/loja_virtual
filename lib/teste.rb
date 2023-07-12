@@ -26,5 +26,5 @@ biblioteca.adiciona web_design_responsivo
 # puts biblioteca.livros
 
 for livro in biblioteca.livros do
-p livro.preco
+p livro.valor
 end
